@@ -14,5 +14,14 @@ Methodology:
 
 Now, you can open it on Cytoscape and have fun! 
 
+We've have used here an example of expression data from different tissues of chicken (E-MTAB-2797 publicaly avaible from Array Express). However, you can use your own expression data. Just make sure that you have filtered the non-expressed genes and have normalized the data. 
 
+[You can see a general figure here](https://katiaplopes.github.io/Networks_stuff/chicken_example.png)
+And a [zoom here](https://katiaplopes.github.io/Networks_stuff/chicken_zoom.png) 
+
+
+*******************************
+Created by:
+ - Katia de Paiva Lopes
+ - Bioinformatician, PhD
 
